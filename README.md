@@ -1,5 +1,7 @@
 # FoodApp
 Coroutines-Retrofit-Room-Navigation-Paging-Glide-ssd&amp;sdp-Livedata-Databinding-MVVM
+
+
 With a clean interface that users can use on the home page of the application, they encounter a recommended food recommendation that changes every time they enter the application.
 
 
